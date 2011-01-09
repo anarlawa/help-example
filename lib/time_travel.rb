@@ -7,6 +7,6 @@ attr_accessor :year
 	end
 
 	def travel(to_date)
-	
+	@year = to_date
 	end
 end
